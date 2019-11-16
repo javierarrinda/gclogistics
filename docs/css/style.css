@@ -46329,3 +46329,20 @@ html:not([data-x-mode]) .countdown-custom .countdown:before {
 html:not(.ie-11):not(.ios) .parallax-disabled {
 	background-attachment: fixed;
 }
+
+#gclogistics {
+	font-size: 200%;
+}
+
+#about {
+	font-size: 92% ;
+	line-height: 3vh;
+
+}
+#left-heading {
+	display: flex;
+	justify-content: left;
+}
+#faq-div {
+	font-size: 130%;
+}
